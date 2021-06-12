@@ -1,0 +1,19 @@
+table{
+    width: 50%;
+    border: 1px solid green;
+    margin: 30px auto 0px auto;
+    empty-cells: hide;
+
+    text-align: center;
+}
+
+td{
+    border: 1px solid;
+}
+
+.head{
+font-size: 60px;
+font-weight: bold;
+background-color: yellow;
+padding: 10px ;
+}
